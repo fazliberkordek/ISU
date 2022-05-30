@@ -1,16 +1,18 @@
 import 'package:flutter/material.dart';
-import 'package:isu/subject_Pages/yemek_Page.dart';
-import 'package:isu/subject_Pages/food_Page.dart';
-import 'package:isu/subject_Pages/renk_Page.dart';
-import 'package:isu/subject_Pages/color_Page.dart';
-import 'package:isu/subject_Pages/sayi_Page.dart';
-import 'package:isu/subject_Pages/number_Page.dart';
-import 'package:isu/subject_Pages/hava_Page.dart';
-import 'package:isu/subject_Pages/weather_Page.dart';
-import 'package:isu/subject_Pages/aile_Page.dart';
-import 'package:isu/subject_Pages/family_Page.dart';
-import 'package:isu/subject_Pages/tasit_Page.dart';
-import 'package:isu/subject_Pages/vehicle_Page.dart';
+import 'package:isu/subject_Pages/AileSubjectScreen.dart';
+import 'package:isu/subject_Pages/ColorSubjectScreen.dart';
+import 'package:isu/subject_Pages/FamilySubjectScreen.dart';
+import 'package:isu/subject_Pages/FoodSubjectScreen.dart';
+import 'package:isu/subject_Pages/HavaSubjectScreen.dart';
+import 'package:isu/subject_Pages/NumberSubjectScreen.dart';
+import 'package:isu/subject_Pages/SayiSubjectScreen.dart';
+import 'package:isu/subject_Pages/TasitSubjectScreen.dart';
+import 'package:isu/subject_Pages/VehicleSubjectScreen.dart';
+import 'package:isu/subject_Pages/WeatherSubjectScreen.dart';
+import 'package:isu/subject_Pages/YemekSubjectScreen.dart';
+
+
+import '../subject_Pages/RenkSubjectScreen.dart';
 
 class ContentPage extends StatefulWidget {
   String language;
@@ -41,9 +43,9 @@ class _ContentPageState extends State<ContentPage> {
       height: MediaQuery.of(context).size.height,
       decoration: BoxDecoration(
           gradient: LinearGradient(colors: [
-        Color.fromRGBO(94, 97, 244, 1),
-        Color.fromRGBO(203, 81, 94, 1),
-      ], begin: Alignment.topCenter, end: Alignment.bottomCenter)),
+            Color.fromRGBO(94, 97, 244, 1),
+            Color.fromRGBO(203, 81, 94, 1),
+          ], begin: Alignment.topCenter, end: Alignment.bottomCenter)),
       child: Scaffold(
         appBar: AppBar(
           title: Image.asset(
@@ -100,12 +102,12 @@ class _ContentPageState extends State<ContentPage> {
                   if (language == 0) {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => FoodPage()),
+                      MaterialPageRoute(builder: (context) => FoodSubjectScreen()),
                     );
                   } else {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => YemekPage()),
+                      MaterialPageRoute(builder: (context) => YemekSubjectScreen()),
                     );
                   }
                 }, 'food.png'),
@@ -113,12 +115,12 @@ class _ContentPageState extends State<ContentPage> {
                   if (language == 0) {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => ColorPage()),
+                      MaterialPageRoute(builder: (context) => ColorSubjectScreen()),
                     );
                   } else {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => RenkPage()),
+                      MaterialPageRoute(builder: (context) => RenkSubjectScreen()),
                     );
                   }
                 }, 'color.png'),
@@ -126,12 +128,12 @@ class _ContentPageState extends State<ContentPage> {
                   if (language == 0) {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => NumberPage()),
+                      MaterialPageRoute(builder: (context) => NumberSubjectScreen()),
                     );
                   } else {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => SayiPage()),
+                      MaterialPageRoute(builder: (context) => SayiSubjectScreen()),
                     );
                   }
                 }, 'number.png'),
@@ -139,12 +141,12 @@ class _ContentPageState extends State<ContentPage> {
                   if (language == 0) {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => WeatherPage()),
+                      MaterialPageRoute(builder: (context) => WeatherSubjectScreen()),
                     );
                   } else {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => HavaPage()),
+                      MaterialPageRoute(builder: (context) => HavaSubjectScreen()),
                     );
                   }
                 }, 'weather.png'),
@@ -152,12 +154,12 @@ class _ContentPageState extends State<ContentPage> {
                   if (language == 0) {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => FamilyPage()),
+                      MaterialPageRoute(builder: (context) => FamilySubjectScreen()),
                     );
                   } else {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => AilePage()),
+                      MaterialPageRoute(builder: (context) => AileSubjectScreen()),
                     );
                   }
                 }, 'family.png'),
@@ -165,12 +167,12 @@ class _ContentPageState extends State<ContentPage> {
                   if (language == 0) {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => VehiclePage()),
+                      MaterialPageRoute(builder: (context) => VehicleSubjectScreen()),
                     );
                   } else {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => TasitPage()),
+                      MaterialPageRoute(builder: (context) => TasitSubjectScreen()),
                     );
                   }
                 }, 'car.png'),
@@ -220,5 +222,4 @@ class MyButton extends StatelessWidget {
         ),
       ),
     );
-  }
-}
+  }}
