@@ -15,8 +15,6 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 
 -Seher BIÇAKCI (Developer)
 
--Selim TAŞÇI (Prodcut Owner)
-
 -Umutcan BOSTANCI (Scrum Master -PM)
 
 
