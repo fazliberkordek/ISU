@@ -157,3 +157,6 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 
 # Sprint Retrospective
 - Uygulama tamalandığı için kutlama yapıldı. Emekleri üzerine herkese teşekkür edildi. Uygulamanın ilerleyen aşamalarının ne olabileceği üzeine beyin fırtınası yapıldı. Uygulamanın pazarda ilerleyen dönemlerdeki durumu analiz edildi.
+
+# Toplam Sprint Puanı
+- 110
