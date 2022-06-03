@@ -161,8 +161,7 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 # Sprint Retrospective
 - Uygulama tamalandığı için kutlama yapıldı. 
 - Emekleri üzerine herkese teşekkür edildi. 
-- Uygulamanın ilerleyen aşamalarının ne ol<img width="1437" alt="Ekran Resmi 2022-06-03 14 24 32" src="https://user-images.githubusercontent.com/76954796/171845107-df60e022-2deb-4ae1-9e2d-81a6705408bc.png">
-abileceği üzeine beyin fırtınası yapıldı. 
+- Uygulamanın ilerleyen aşamalarının ne olabileceği üzeine beyin fırtınası yapıldı. 
 - Uygulamanın pazarda ilerleyen dönemlerdeki durumu analiz edildi.
 
 # Toplam Sprint Puanı
