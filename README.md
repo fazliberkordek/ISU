@@ -139,7 +139,7 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 
 
 
-- #  Ürün Version 0.22 !
+- #  Ürün Version 0.02 !
 - ![WhatsApp Image 2022-06-03 at 13 51 51](https://user-images.githubusercontent.com/104260889/171843420-710584be-bc6e-4e72-9a9e-353310d70442.jpeg)
 - ![WhatsApp Image 2022-06-03 at 13 51 51 (1)](https://user-images.githubusercontent.com/104260889/171843503-70192f33-599d-43e2-bd89-2768bae0d195.jpeg)
 - ![WhatsApp Image 2022-06-03 at 13 51 51 (2)](https://user-images.githubusercontent.com/104260889/171843555-7e1bc608-0106-4ac6-a857-2d043ebab239.jpeg)
