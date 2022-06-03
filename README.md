@@ -129,3 +129,31 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 -Tasarlanan UI geliştirilecek ve paralel olarak taslak uygulamanın UI ile tutarlı olması sağlanacak
 # Toplam Sprint Puanı
 - 150 
+
+
+-# Sprint 3
+- Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- Sprint içinde tamamlanması tahmin edilen puan: 110 Puan
+- Daily Scrum:
+
+# Sprint Board Screenshots
+
+- #  Ürün Version 0.22 !
+- ![WhatsApp Image 2022-06-03 at 13 51 51](https://user-images.githubusercontent.com/104260889/171843420-710584be-bc6e-4e72-9a9e-353310d70442.jpeg)
+- ![WhatsApp Image 2022-06-03 at 13 51 51 (1)](https://user-images.githubusercontent.com/104260889/171843503-70192f33-599d-43e2-bd89-2768bae0d195.jpeg)
+- ![WhatsApp Image 2022-06-03 at 13 51 51 (2)](https://user-images.githubusercontent.com/104260889/171843555-7e1bc608-0106-4ac6-a857-2d043ebab239.jpeg)
+- ![WhatsApp Image 2022-06-03 at 13 51 51 (3)](https://user-images.githubusercontent.com/104260889/171843586-a35f18a2-96e5-4e17-a653-4278dfe460bb.jpeg)
+- ![WhatsApp Image 2022-06-03 at 13 51 51 (4)](https://user-images.githubusercontent.com/104260889/171843600-2f5c155c-558d-4c3d-8988-13d975740dff.jpeg)
+- ![WhatsApp Image 2022-06-03 at 13 51 51 (5)](https://user-images.githubusercontent.com/104260889/171843628-0d1a324a-e78b-4ce7-acb4-e7533a9c0fd6.jpeg)
+- ![WhatsApp Image 2022-06-03 at 13 51 52](https://user-images.githubusercontent.com/104260889/171843660-63855f7e-637e-4968-b067-d3a9b96b56f1.jpeg)
+- ![WhatsApp Image 2022-06-03 at 13 51 52 (1)](https://user-images.githubusercontent.com/104260889/171843678-ee46c249-e29c-4fc6-8d44-1b702aa63460.jpeg)
+
+
+#  Sprint Review:
+- Uygulamanın Version 0.22 yayınlandı.
+- BugFix üzerine çalışıldı.
+- APK dosyası hazırlandı.
+- Tanıtım videosu hazırlandı.
+
+# Sprint Retrospective
+- Uygulama tamalandığı için kutlama yapıldı. Emekleri üzerine herkese teşekkür edildi. Uygulamanın ilerleyen aşamalarının ne olabileceği üzeine beyin fırtınası yapıldı. Uygulamanın pazarda ilerleyen dönemlerdeki durumu analiz edildi.
