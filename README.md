@@ -132,7 +132,7 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 # Sprint 3
 - Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 - Sprint içinde tamamlanması tahmin edilen puan: 110 Puan
-- Daily Scrum:
+- Daily Scrum: [Daily Scrum.docx](https://github.com/fazliberkordek/isu/files/8839342/Daily.Scrum.docx)
 
 # Sprint Board Screenshots
 -<img width="1437" alt="Ekran Resmi 2022-06-03 14 24 32" src="https://user-images.githubusercontent.com/76954796/171845174-d568142c-939f-469e-9a60-90fce797d34f.png">
